@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:rgba(0, 0, 0, 0.5);
+    font-weight:550;
+    font-size: 18px;
+    text-transform: capitalize;
+} 
+.lifestyle{
+    width: 90%;
+    margin: auto;
+}
+.newsletter{
+    background-color: slategray;
+}
